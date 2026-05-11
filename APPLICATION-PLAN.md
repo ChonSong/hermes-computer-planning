@@ -111,6 +111,7 @@ Each candidate is a starred repo that should be extracted, migrated, and integra
 #### 2.7 Front-End-Checklist / design-resources → Design Reference
 - **Not migration candidates** — use as design QA during tile development
 - Tag these in catalog as `reference` not `candidate`
+- Includes: `Front-End-Checklist`, `design-resources-for-developers`, `frontend-dev-bookmarks`, `awesome-frontend-resources`, `omatsuri`
 
 #### 2.8 coder-desktop-linux → Architecture Inspiration Only
 - Already analyzed in existing hermes-computer-planning README
